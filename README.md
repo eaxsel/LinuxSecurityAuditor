@@ -30,9 +30,14 @@
 
 ## Использование 
 ```bash
-git clone 
+git clone https://github.com/eaxsel/LinuxSecurityAuditor.git
 chmod +x auditor.sh
 sudo ./auditor.sh
 ```
 
 ## Пример
+<img width="793" height="778" alt="image" src="https://github.com/user-attachments/assets/9842d566-9157-4b45-a0aa-22920b5c7866" />
+<img width="968" height="838" alt="image" src="https://github.com/user-attachments/assets/0b7f11aa-5b9b-408a-8985-ace2153ad3b4" />
+<img width="866" height="868" alt="image" src="https://github.com/user-attachments/assets/f8a86739-5532-4472-a14d-c12eb1118d61" />
+
+
